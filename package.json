@@ -1,0 +1,8 @@
+{
+  "name": "twaiter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Bruno Oliveira <brunohdbass@gmail.com>",
+  "private": true,
+  "license": "MIT"
+}
